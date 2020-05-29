@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body, input, button, textarea {
+    font-family: 'Poppins', sans-serif;
+}
+a { 
+    text-decoration: none;
+}
+input, button, textarea {
+    outline: none;
+}
+button {
+    cursor: pointer;
+}
+.header {
+    width: 80%;
+    margin: 10px auto;
+    text-align: center;
+}
+form {
+    width: 600px;
+    margin: 10px auto;
+}
+input {
+    width: 100%;
+    margin: 3px 0;
+    padding: 4px 8px;
+}
+button {
+    padding: 5px;
+}
+.alert-auth {
+    text-align: center;
+    font-size: 13px;
+    color: brown;
+} 
